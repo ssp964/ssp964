@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**ssp964/ssp964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Sour+Gummy&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Suprit+Patil!;" />
+</h1>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Glad to see you here!
+ 
+🔭 I’m currently working on **data engineering & ML projects for analytics and automation**
+
+🌱 I’m currently learning **LLMs, Docker, and advanced data workflows**
+
+💬 Ask me about **GCP, dbt, Airflow, BigQuery, or building end-to-end data pipelines**
+
+ </div>
+
+ <p align="center">
+  <a href="https://linkedin.com/in/supritspatil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:suprit202@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.supritpatil.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF6F00?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>

@@ -9,7 +9,7 @@
  
 🔭 I’m currently working on **data engineering & ML projects for analytics and automation**
 
-🌱 I’m currently learning **LLMs, Docker, and advanced data workflows**
+🌱 I’m currently learning **LLMs, Docker and big data tools**
 
 💬 Ask me about **GCP, dbt, Airflow, BigQuery, or building end-to-end data pipelines**
 
